@@ -1,7 +1,7 @@
-public class Main {
+public class Temp {
     public static void main(String[] args) {
-        // args[0] takes the first word/number you type after the program name
-        int temp = Integer.parseInt(args[0]);
+        // Just change this number and re-run the program
+        int temp = 25;
 
         if (temp < 0) {
             System.out.println("Below freezing");
